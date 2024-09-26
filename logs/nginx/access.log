@@ -1,5 +1,0 @@
-192.168.65.1 - - [29/Apr/2024:16:36:34 +0000] "GET / HTTP/1.1" 301 169 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" "-"
-192.168.65.1 - - [13/May/2024:08:38:48 +0000] "GET /api/v1/services/retail/shop-by-id/ HTTP/1.1" 301 169 "-" "PostmanRuntime/7.37.3" "-"
-192.168.65.1 - - [13/May/2024:08:39:00 +0000] "GET /api/v1/services/retail/shop-by-id/ HTTP/1.1" 301 169 "-" "PostmanRuntime/7.37.3" "-"
-192.168.65.1 - - [13/May/2024:08:39:01 +0000] "GET /api/v1/services/retail/shop-by-id/ HTTP/1.1" 301 169 "-" "PostmanRuntime/7.37.3" "-"
-192.168.65.1 - - [23/Sep/2024:20:49:49 +0000] "GET / HTTP/1.1" 301 169 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" "-"
